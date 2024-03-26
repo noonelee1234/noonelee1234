@@ -1,4 +1,3 @@
 ## 자기소개
 
-hello world  
-I`m learning python
+hello worldI`m learning python
